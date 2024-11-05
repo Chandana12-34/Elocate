@@ -4,27 +4,16 @@ E waste Facility Locator & Recycling Platform ♻️
 
 A i-nnovate Hackathon by intelliswift Finalist Project **Team Spam Byte From Deogiri Institute of Engineering And Management Studies Chh. Sambhajinagar.**
 
-**Update** : Won The Position of **Second Runner** Up & 30 K price in hackathon at [**i-nnovate Hackathon 2023**](https://www.intelliswift.com/innovate-hackathon) By [Intelliswift Software Pvt. Ltd](https://www.intelliswift.com/) at **Symbiosis International University**
 
-Click on link below to have intro to ELocate :
-
-[Intro To Elocate Video in Short But In Detail](https://youtu.be/rEyCnsLWbJU)
 
 
 ## Live Preview
 
-Here you can view the deployed version
-[ELocate ♻️](https://elocateinnovate.vercel.app)
 
-![image](https://github.com/shuence/ELocate/assets/65482186/02809587-82e8-4633-a53e-74e7f74654b4)
-![image](https://github.com/shuence/ELocate/assets/65482186/a4fae975-b9c3-4753-b1d8-ebb0fef7b64f)
-![image](https://github.com/shuence/ELocate/assets/65482186/930b1433-3d1b-4a32-a3c5-5f7f75ebbabc)
-![image](https://github.com/shuence/ELocate/assets/65482186/b48752ab-dc1e-48ea-9f83-5a7d47d50ccf)
 
 ## Videos 
 
-Click on link below to have demo of our prototype :
-[Prototype Video](https://youtu.be/3IN58Qo_FvA)
+
 
 ## Setup
 
@@ -96,18 +85,8 @@ by intelliswift.
 - Implement a user dashboard for managing and tracking bookings.
 - Implement facility dashboard for managing and updating facility info and manage bookings and other data.
 - Implement Admin dashboard for managing and updating facilities, verification, generating various reports and other data.
-# Hi, We are Spam Byte! 👋
 
 
-## 🚀 About us
-
-We are a team from Deogiri Institute of Engineering And Management Studies Chh. Sambhajinagar.
-
-- Krishna Dnyaneshwar Aute - [Krishna]()
-- Shubham Vishnu Pitekar - [Shuence](https://github.com/shuence)
-- Dayeeta Chakravorty - [Dayeeta]()
-- Samruddhi Shirish Giri - [Samruddhi]()
-- Siddhi Sudhakar Tribhuwan - [Siddhi]()
 
 ## Happy coding 💯
 
